@@ -1,0 +1,22 @@
+button{
+    background-color: greenyellow;
+    color: rgb(249, 11, 51);
+    /* width: 100vw; */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+    
+}
+
+.button{
+    margin: 20px;
+    border: 2px solid rgb(95, 12, 238);
+    width: 100vw;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    
+
+}
