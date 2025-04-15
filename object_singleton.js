@@ -56,7 +56,7 @@ const school = {
     dress_charge : 2000,
     medium : "Hindi"
 }
-// console.log(school.dress_charge)
+console.log(school.dress_charge)
 
 const {medium} = school 
 console.log(medium);
